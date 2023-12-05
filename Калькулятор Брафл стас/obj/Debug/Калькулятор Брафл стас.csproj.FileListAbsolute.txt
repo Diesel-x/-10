@@ -1,0 +1,48 @@
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.exe.config
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.exe
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.pdb
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_Content.g.cs
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_MarkupCompile.cache
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_MarkupCompile.lref
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.g.resources
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор_Брафл_стас.Properties.Resources.resources
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.exe
+C:\Users\Admin\Desktop\лабы\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.pdb
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.exe.config
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.exe
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.pdb
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.AssemblyReference.cache
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\MainWindow.g.cs
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\App.g.cs
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_Content.g.cs
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_MarkupCompile.cache
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_MarkupCompile.lref
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\MainWindow.baml
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.g.resources
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор_Брафл_стас.Properties.Resources.resources
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.GenerateResource.cache
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.CoreCompileInputs.cache
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.exe
+D:\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.pdb
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.exe.config
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.exe
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\bin\Debug\Калькулятор Брафл стас.pdb
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.AssemblyReference.cache
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\MainWindow.g.cs
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\App.g.cs
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_Content.g.cs
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_MarkupCompile.cache
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас_MarkupCompile.lref
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\MainWindow.baml
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.g.resources
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор_Брафл_стас.Properties.Resources.resources
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.GenerateResource.cache
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.csproj.CoreCompileInputs.cache
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.exe
+C:\Users\diyaz\Desktop\BrawlStarsCalculator\практ раб 10\Калькулятор Брафл стас\obj\Debug\Калькулятор Брафл стас.pdb

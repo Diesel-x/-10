@@ -1,0 +1,59 @@
+﻿<Window x:Class="практ_раб_10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:практ_раб_10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1280" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Margin="0,0,-8,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="67*"/>
+            <RowDefinition Height="442*"/>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="63*"/>
+            <RowDefinition Height="63*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="27*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" VerticalAlignment="Bottom" Grid.Row="4" Height="60">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="52*"/>
+                <ColumnDefinition Width="107*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.ColumnSpan="2" >
+                <Button Height="60" VerticalAlignment="Bottom"/>
+            </StackPanel>
+        </Grid>
+        <Rectangle Fill="#FFF4F4F5" Stroke="Black" Margin="111,101,105,39" Grid.Row="1" Grid.Column="1" />
+        <Slider Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Height="24" Width="462" Margin="32,20,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Center" Width="300" Height="370" Margin="10,33,0,39" Grid.Row="1">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="кольтик1.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Right" VerticalAlignment="Center" Width="300" Height="370" Margin="0,33,10,39" FontFamily="Montre" Grid.Row="1">
+            <Button.Background>
+                <ImageBrush ImageSource="wonder-day-brawl-stars-png-60.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <TextBox HorizontalAlignment="Left" Height="60" Margin="12,1,0,0" Grid.Row="3" TextWrapping="Wrap" Text="Рост" VerticalAlignment="Top" Width="290" FontSize="48" FontFamily="Montserrat Black" TextAlignment="Center">
+            
+        </TextBox>
+        <TextBox HorizontalAlignment="Left" Height="60" Margin="430,1,0,0" Grid.Row="3" TextWrapping="Wrap" Text="Вес" VerticalAlignment="Top" Width="300" FontSize="48" FontFamily="Montserrat Black" TextAlignment="Center"/>
+        <Border BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Left" Height="60" Margin="0,1,0,0" Grid.Row="3" VerticalAlignment="Top" Width="300">
+            <Border.Effect>
+                <BlurEffect RenderingBias="Quality" Radius="7"/>
+            </Border.Effect>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Right" Height="60" Margin="0,1,10,0" Grid.Row="3" VerticalAlignment="Top" Width="300">
+            <Border.Effect>
+                <BlurEffect RenderingBias="Quality" Radius="7"/>
+            </Border.Effect>
+        </Border>
+        <TextBlock x:Name="genderTextName" HorizontalAlignment="Left" Margin="102,5,0,0" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48" FontFamily="Montserrat Black" Height="59" Width="0" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

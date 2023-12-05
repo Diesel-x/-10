@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed2c09c4-859d-4c1b-b7d1-b7edcd3f3f0c": {
+      "ProjectGuid": "ed2c09c4-859d-4c1b-b7d1-b7edcd3f3f0c",
+      "DisplayName": "Калькулятор Брафл стас",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
